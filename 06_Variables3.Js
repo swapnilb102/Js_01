@@ -5,11 +5,11 @@ let maritalStatus = "Single\n"
 let country = "India\n"
 let age = "19"
 console.log(firstName + lastName + maritalStatus + country + age)
-//Output: Swapnil
+/*Output: Swapnil
           Bhadani
           Single
           India
-          19
+          19 */
 
 //Declare Variables to store your first name, last name, marital status, country, and age in single line
 let firstName = "Swapnil ";
